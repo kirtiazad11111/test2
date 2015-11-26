@@ -7,8 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-<h1>This is First Page</h1>
-<a href="test3.jsp"><h1>TEAM B TAB</h1></a>
-<a href="test.jsp"><h1>TEAM A TAB</h1></a>
+<h1>this is a new file not avilable on other</h1>
 </body>
 </html>

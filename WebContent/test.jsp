@@ -7,8 +7,7 @@
 <title>Insert title here</title>
 </head>
 <body>
-<h1>This is First Page</h1>
-<a href="test3.jsp"><h1>TEAM B TAB</h1></a>
-<a href="test.jsp"><h1>TEAM A TAB</h1></a>
+<h1>Test page Added by Team A</h1>
+<h1><a href="team A 2nd team member.jsp">New tab Added by Team a Member</a></h1>
 </body>
 </html>
