@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-<h1>HELLO THIS IS A TEST PAGE</h1>
+<h1>Test page Added by Team A</h1>
 </body>
 </html>
